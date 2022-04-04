@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: deathvn.github.io
+Token: 9fb92b698234379a90c6268fbe2252088fce016dd9297812102722b61a87b733
